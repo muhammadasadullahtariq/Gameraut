@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908199543492",
+    "project_id": "gamer-79506",
+    "storage_bucket": "gamer-79506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908199543492:android:5ba79262a9561524bb3f91",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908199543492-7en99vapjkb2qnllta7ro0frt47dsq9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "70c87555adabee4c3a2bf5922614cf6a070f394f"
+          }
+        },
+        {
+          "client_id": "908199543492-0d6t91bgu1p7mf7v2fuhfg74dtugva8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF4VkYM-vf5Xa6y098iRUYA4nxiHk3HZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908199543492-0d6t91bgu1p7mf7v2fuhfg74dtugva8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
